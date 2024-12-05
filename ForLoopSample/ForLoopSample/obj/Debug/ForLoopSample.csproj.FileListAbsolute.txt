@@ -1,0 +1,10 @@
+C:\Users\ediso\source\repos\ForLoopSample\ForLoopSample\bin\Debug\ForLoopSample.exe.config
+C:\Users\ediso\source\repos\ForLoopSample\ForLoopSample\bin\Debug\ForLoopSample.exe
+C:\Users\ediso\source\repos\ForLoopSample\ForLoopSample\bin\Debug\ForLoopSample.pdb
+C:\Users\ediso\source\repos\ForLoopSample\ForLoopSample\obj\Debug\ForLoopSample.csproj.AssemblyReference.cache
+C:\Users\ediso\source\repos\ForLoopSample\ForLoopSample\obj\Debug\ForLoopSample.Form1.resources
+C:\Users\ediso\source\repos\ForLoopSample\ForLoopSample\obj\Debug\ForLoopSample.Properties.Resources.resources
+C:\Users\ediso\source\repos\ForLoopSample\ForLoopSample\obj\Debug\ForLoopSample.csproj.GenerateResource.cache
+C:\Users\ediso\source\repos\ForLoopSample\ForLoopSample\obj\Debug\ForLoopSample.csproj.CoreCompileInputs.cache
+C:\Users\ediso\source\repos\ForLoopSample\ForLoopSample\obj\Debug\ForLoopSample.exe
+C:\Users\ediso\source\repos\ForLoopSample\ForLoopSample\obj\Debug\ForLoopSample.pdb

@@ -1,0 +1,10 @@
+C:\Users\ediso\source\repos\CountingProject\CountingProject\bin\Debug\CountingProject.exe.config
+C:\Users\ediso\source\repos\CountingProject\CountingProject\bin\Debug\CountingProject.exe
+C:\Users\ediso\source\repos\CountingProject\CountingProject\bin\Debug\CountingProject.pdb
+C:\Users\ediso\source\repos\CountingProject\CountingProject\obj\Debug\CountingProject.csproj.AssemblyReference.cache
+C:\Users\ediso\source\repos\CountingProject\CountingProject\obj\Debug\CountingProject.Form1.resources
+C:\Users\ediso\source\repos\CountingProject\CountingProject\obj\Debug\CountingProject.Properties.Resources.resources
+C:\Users\ediso\source\repos\CountingProject\CountingProject\obj\Debug\CountingProject.csproj.GenerateResource.cache
+C:\Users\ediso\source\repos\CountingProject\CountingProject\obj\Debug\CountingProject.csproj.CoreCompileInputs.cache
+C:\Users\ediso\source\repos\CountingProject\CountingProject\obj\Debug\CountingProject.exe
+C:\Users\ediso\source\repos\CountingProject\CountingProject\obj\Debug\CountingProject.pdb

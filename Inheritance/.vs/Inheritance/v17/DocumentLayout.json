@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ediso\\source\\repos\\Inheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{430F56D6-AAAD-4827-B8B8-8379F1FB2A4C}|Inheritance\\Inheritance.csproj|c:\\users\\ediso\\source\\repos\\inheritance\\inheritance\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{430F56D6-AAAD-4827-B8B8-8379F1FB2A4C}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{430F56D6-AAAD-4827-B8B8-8379F1FB2A4C}|Inheritance\\Inheritance.csproj|c:\\users\\ediso\\source\\repos\\inheritance\\inheritance\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{430F56D6-AAAD-4827-B8B8-8379F1FB2A4C}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{430F56D6-AAAD-4827-B8B8-8379F1FB2A4C}|Inheritance\\Inheritance.csproj|c:\\users\\ediso\\source\\repos\\inheritance\\inheritance\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{430F56D6-AAAD-4827-B8B8-8379F1FB2A4C}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{430F56D6-AAAD-4827-B8B8-8379F1FB2A4C}|Inheritance\\Inheritance.csproj|c:\\users\\ediso\\source\\repos\\inheritance\\inheritance\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{430F56D6-AAAD-4827-B8B8-8379F1FB2A4C}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{430F56D6-AAAD-4827-B8B8-8379F1FB2A4C}|Inheritance\\Inheritance.csproj|c:\\users\\ediso\\source\\repos\\inheritance\\inheritance\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{430F56D6-AAAD-4827-B8B8-8379F1FB2A4C}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Human.cs",
+              "DocumentMoniker": "C:\\Users\\ediso\\source\\repos\\Inheritance\\Inheritance\\Human.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Human.cs",
+              "ToolTip": "C:\\Users\\ediso\\source\\repos\\Inheritance\\Inheritance\\Human.cs",
+              "RelativeToolTip": "Inheritance\\Human.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T02:01:07.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\ediso\\source\\repos\\Inheritance\\Inheritance\\Employee.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Employee.cs",
+              "ToolTip": "C:\\Users\\ediso\\source\\repos\\Inheritance\\Inheritance\\Employee.cs",
+              "RelativeToolTip": "Inheritance\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T02:02:47.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ediso\\source\\repos\\Inheritance\\Inheritance\\Form1.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Form1.cs",
+              "ToolTip": "C:\\Users\\ediso\\source\\repos\\Inheritance\\Inheritance\\Form1.cs",
+              "RelativeToolTip": "Inheritance\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAtwBgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T02:09:33.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\ediso\\source\\repos\\Inheritance\\Inheritance\\Teacher.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Teacher.cs",
+              "ToolTip": "C:\\Users\\ediso\\source\\repos\\Inheritance\\Inheritance\\Teacher.cs",
+              "RelativeToolTip": "Inheritance\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T02:05:16.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ediso\\source\\repos\\Inheritance\\Inheritance\\Form1.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Form1.cs",
+              "ToolTip": "C:\\Users\\ediso\\source\\repos\\Inheritance\\Inheritance\\Form1.cs [Design]",
+              "RelativeToolTip": "Inheritance\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T02:00:43.292Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

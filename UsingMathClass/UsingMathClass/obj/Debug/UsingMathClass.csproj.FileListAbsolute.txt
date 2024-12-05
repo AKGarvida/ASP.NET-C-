@@ -1,0 +1,10 @@
+C:\Users\ediso\source\repos\UsingMathClass\UsingMathClass\bin\Debug\UsingMathClass.exe.config
+C:\Users\ediso\source\repos\UsingMathClass\UsingMathClass\bin\Debug\UsingMathClass.exe
+C:\Users\ediso\source\repos\UsingMathClass\UsingMathClass\bin\Debug\UsingMathClass.pdb
+C:\Users\ediso\source\repos\UsingMathClass\UsingMathClass\obj\Debug\UsingMathClass.csproj.AssemblyReference.cache
+C:\Users\ediso\source\repos\UsingMathClass\UsingMathClass\obj\Debug\UsingMathClass.Form1.resources
+C:\Users\ediso\source\repos\UsingMathClass\UsingMathClass\obj\Debug\UsingMathClass.Properties.Resources.resources
+C:\Users\ediso\source\repos\UsingMathClass\UsingMathClass\obj\Debug\UsingMathClass.csproj.GenerateResource.cache
+C:\Users\ediso\source\repos\UsingMathClass\UsingMathClass\obj\Debug\UsingMathClass.csproj.CoreCompileInputs.cache
+C:\Users\ediso\source\repos\UsingMathClass\UsingMathClass\obj\Debug\UsingMathClass.exe
+C:\Users\ediso\source\repos\UsingMathClass\UsingMathClass\obj\Debug\UsingMathClass.pdb

@@ -1,0 +1,10 @@
+C:\Users\ediso\source\repos\ifElseStatement\ifElseStatement\bin\Debug\ifElseStatement.exe.config
+C:\Users\ediso\source\repos\ifElseStatement\ifElseStatement\bin\Debug\ifElseStatement.exe
+C:\Users\ediso\source\repos\ifElseStatement\ifElseStatement\bin\Debug\ifElseStatement.pdb
+C:\Users\ediso\source\repos\ifElseStatement\ifElseStatement\obj\Debug\ifElseStatement.csproj.AssemblyReference.cache
+C:\Users\ediso\source\repos\ifElseStatement\ifElseStatement\obj\Debug\ifElseStatement.Form1.resources
+C:\Users\ediso\source\repos\ifElseStatement\ifElseStatement\obj\Debug\ifElseStatement.Properties.Resources.resources
+C:\Users\ediso\source\repos\ifElseStatement\ifElseStatement\obj\Debug\ifElseStatement.csproj.GenerateResource.cache
+C:\Users\ediso\source\repos\ifElseStatement\ifElseStatement\obj\Debug\ifElseStatement.csproj.CoreCompileInputs.cache
+C:\Users\ediso\source\repos\ifElseStatement\ifElseStatement\obj\Debug\ifElseStatement.exe
+C:\Users\ediso\source\repos\ifElseStatement\ifElseStatement\obj\Debug\ifElseStatement.pdb

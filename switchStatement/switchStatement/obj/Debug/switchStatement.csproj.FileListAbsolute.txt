@@ -1,0 +1,10 @@
+C:\Users\ediso\source\repos\switchStatement\switchStatement\bin\Debug\switchStatement.exe.config
+C:\Users\ediso\source\repos\switchStatement\switchStatement\bin\Debug\switchStatement.exe
+C:\Users\ediso\source\repos\switchStatement\switchStatement\bin\Debug\switchStatement.pdb
+C:\Users\ediso\source\repos\switchStatement\switchStatement\obj\Debug\switchStatement.csproj.AssemblyReference.cache
+C:\Users\ediso\source\repos\switchStatement\switchStatement\obj\Debug\switchStatement.Form1.resources
+C:\Users\ediso\source\repos\switchStatement\switchStatement\obj\Debug\switchStatement.Properties.Resources.resources
+C:\Users\ediso\source\repos\switchStatement\switchStatement\obj\Debug\switchStatement.csproj.GenerateResource.cache
+C:\Users\ediso\source\repos\switchStatement\switchStatement\obj\Debug\switchStatement.csproj.CoreCompileInputs.cache
+C:\Users\ediso\source\repos\switchStatement\switchStatement\obj\Debug\switchStatement.exe
+C:\Users\ediso\source\repos\switchStatement\switchStatement\obj\Debug\switchStatement.pdb

@@ -1,0 +1,7 @@
+C:\Users\ediso\source\repos\firstProject\firstProject\bin\Debug\firstProject.exe.config
+C:\Users\ediso\source\repos\firstProject\firstProject\bin\Debug\firstProject.exe
+C:\Users\ediso\source\repos\firstProject\firstProject\bin\Debug\firstProject.pdb
+C:\Users\ediso\source\repos\firstProject\firstProject\obj\Debug\firstProject.csproj.AssemblyReference.cache
+C:\Users\ediso\source\repos\firstProject\firstProject\obj\Debug\firstProject.csproj.CoreCompileInputs.cache
+C:\Users\ediso\source\repos\firstProject\firstProject\obj\Debug\firstProject.exe
+C:\Users\ediso\source\repos\firstProject\firstProject\obj\Debug\firstProject.pdb

@@ -1,0 +1,11 @@
+C:\Users\ediso\source\repos\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe.config
+C:\Users\ediso\source\repos\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe
+C:\Users\ediso\source\repos\Encapsulation\Encapsulation\bin\Debug\Encapsulation.pdb
+C:\Users\ediso\source\repos\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csproj.AssemblyReference.cache
+C:\Users\ediso\source\repos\Encapsulation\Encapsulation\obj\Debug\Encapsulation.Form1.resources
+C:\Users\ediso\source\repos\Encapsulation\Encapsulation\obj\Debug\Encapsulation.FrmEmployeeDetails.resources
+C:\Users\ediso\source\repos\Encapsulation\Encapsulation\obj\Debug\Encapsulation.Properties.Resources.resources
+C:\Users\ediso\source\repos\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csproj.GenerateResource.cache
+C:\Users\ediso\source\repos\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\ediso\source\repos\Encapsulation\Encapsulation\obj\Debug\Encapsulation.exe
+C:\Users\ediso\source\repos\Encapsulation\Encapsulation\obj\Debug\Encapsulation.pdb

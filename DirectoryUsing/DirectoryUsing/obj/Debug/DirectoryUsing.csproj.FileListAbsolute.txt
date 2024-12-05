@@ -1,0 +1,10 @@
+C:\Users\ediso\source\repos\DirectoryUsing\DirectoryUsing\bin\Debug\DirectoryUsing.exe.config
+C:\Users\ediso\source\repos\DirectoryUsing\DirectoryUsing\bin\Debug\DirectoryUsing.exe
+C:\Users\ediso\source\repos\DirectoryUsing\DirectoryUsing\bin\Debug\DirectoryUsing.pdb
+C:\Users\ediso\source\repos\DirectoryUsing\DirectoryUsing\obj\Debug\DirectoryUsing.csproj.AssemblyReference.cache
+C:\Users\ediso\source\repos\DirectoryUsing\DirectoryUsing\obj\Debug\DirectoryUsing.Form1.resources
+C:\Users\ediso\source\repos\DirectoryUsing\DirectoryUsing\obj\Debug\DirectoryUsing.Properties.Resources.resources
+C:\Users\ediso\source\repos\DirectoryUsing\DirectoryUsing\obj\Debug\DirectoryUsing.csproj.GenerateResource.cache
+C:\Users\ediso\source\repos\DirectoryUsing\DirectoryUsing\obj\Debug\DirectoryUsing.csproj.CoreCompileInputs.cache
+C:\Users\ediso\source\repos\DirectoryUsing\DirectoryUsing\obj\Debug\DirectoryUsing.exe
+C:\Users\ediso\source\repos\DirectoryUsing\DirectoryUsing\obj\Debug\DirectoryUsing.pdb

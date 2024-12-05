@@ -1,0 +1,10 @@
+C:\Users\ediso\source\repos\firstProject_WinApp\firstProject_WinApp\bin\Debug\firstProject_WinApp.exe.config
+C:\Users\ediso\source\repos\firstProject_WinApp\firstProject_WinApp\bin\Debug\firstProject_WinApp.exe
+C:\Users\ediso\source\repos\firstProject_WinApp\firstProject_WinApp\bin\Debug\firstProject_WinApp.pdb
+C:\Users\ediso\source\repos\firstProject_WinApp\firstProject_WinApp\obj\Debug\firstProject_WinApp.csproj.AssemblyReference.cache
+C:\Users\ediso\source\repos\firstProject_WinApp\firstProject_WinApp\obj\Debug\firstProject_WinApp.Form1.resources
+C:\Users\ediso\source\repos\firstProject_WinApp\firstProject_WinApp\obj\Debug\firstProject_WinApp.Properties.Resources.resources
+C:\Users\ediso\source\repos\firstProject_WinApp\firstProject_WinApp\obj\Debug\firstProject_WinApp.csproj.GenerateResource.cache
+C:\Users\ediso\source\repos\firstProject_WinApp\firstProject_WinApp\obj\Debug\firstProject_WinApp.csproj.CoreCompileInputs.cache
+C:\Users\ediso\source\repos\firstProject_WinApp\firstProject_WinApp\obj\Debug\firstProject_WinApp.exe
+C:\Users\ediso\source\repos\firstProject_WinApp\firstProject_WinApp\obj\Debug\firstProject_WinApp.pdb

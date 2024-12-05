@@ -1,0 +1,10 @@
+C:\Users\ediso\source\repos\Static_Statement\Static_Statement\bin\Debug\Static_Statement.exe.config
+C:\Users\ediso\source\repos\Static_Statement\Static_Statement\bin\Debug\Static_Statement.exe
+C:\Users\ediso\source\repos\Static_Statement\Static_Statement\bin\Debug\Static_Statement.pdb
+C:\Users\ediso\source\repos\Static_Statement\Static_Statement\obj\Debug\Static_Statement.csproj.AssemblyReference.cache
+C:\Users\ediso\source\repos\Static_Statement\Static_Statement\obj\Debug\Static_Statement.Form1.resources
+C:\Users\ediso\source\repos\Static_Statement\Static_Statement\obj\Debug\Static_Statement.Properties.Resources.resources
+C:\Users\ediso\source\repos\Static_Statement\Static_Statement\obj\Debug\Static_Statement.csproj.GenerateResource.cache
+C:\Users\ediso\source\repos\Static_Statement\Static_Statement\obj\Debug\Static_Statement.csproj.CoreCompileInputs.cache
+C:\Users\ediso\source\repos\Static_Statement\Static_Statement\obj\Debug\Static_Statement.exe
+C:\Users\ediso\source\repos\Static_Statement\Static_Statement\obj\Debug\Static_Statement.pdb

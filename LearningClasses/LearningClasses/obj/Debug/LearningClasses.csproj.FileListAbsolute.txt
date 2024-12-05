@@ -1,0 +1,11 @@
+C:\Users\ediso\source\repos\LearningClasses\LearningClasses\bin\Debug\LearningClasses.exe.config
+C:\Users\ediso\source\repos\LearningClasses\LearningClasses\bin\Debug\LearningClasses.exe
+C:\Users\ediso\source\repos\LearningClasses\LearningClasses\bin\Debug\LearningClasses.pdb
+C:\Users\ediso\source\repos\LearningClasses\LearningClasses\obj\Debug\LearningClasses.csproj.AssemblyReference.cache
+C:\Users\ediso\source\repos\LearningClasses\LearningClasses\obj\Debug\LearningClasses.Form1.resources
+C:\Users\ediso\source\repos\LearningClasses\LearningClasses\obj\Debug\LearningClasses.Properties.Resources.resources
+C:\Users\ediso\source\repos\LearningClasses\LearningClasses\obj\Debug\LearningClasses.csproj.GenerateResource.cache
+C:\Users\ediso\source\repos\LearningClasses\LearningClasses\obj\Debug\LearningClasses.csproj.CoreCompileInputs.cache
+C:\Users\ediso\source\repos\LearningClasses\LearningClasses\obj\Debug\LearningClasses.exe
+C:\Users\ediso\source\repos\LearningClasses\LearningClasses\obj\Debug\LearningClasses.pdb
+C:\Users\ediso\source\repos\LearningClasses\LearningClasses\obj\Debug\LearningClasses.Form2.resources

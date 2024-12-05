@@ -1,0 +1,10 @@
+C:\Users\ediso\source\repos\CheckboxSample\CheckboxSample\bin\Debug\CheckboxSample.exe.config
+C:\Users\ediso\source\repos\CheckboxSample\CheckboxSample\bin\Debug\CheckboxSample.exe
+C:\Users\ediso\source\repos\CheckboxSample\CheckboxSample\bin\Debug\CheckboxSample.pdb
+C:\Users\ediso\source\repos\CheckboxSample\CheckboxSample\obj\Debug\CheckboxSample.csproj.AssemblyReference.cache
+C:\Users\ediso\source\repos\CheckboxSample\CheckboxSample\obj\Debug\CheckboxSample.Form1.resources
+C:\Users\ediso\source\repos\CheckboxSample\CheckboxSample\obj\Debug\CheckboxSample.Properties.Resources.resources
+C:\Users\ediso\source\repos\CheckboxSample\CheckboxSample\obj\Debug\CheckboxSample.csproj.GenerateResource.cache
+C:\Users\ediso\source\repos\CheckboxSample\CheckboxSample\obj\Debug\CheckboxSample.csproj.CoreCompileInputs.cache
+C:\Users\ediso\source\repos\CheckboxSample\CheckboxSample\obj\Debug\CheckboxSample.exe
+C:\Users\ediso\source\repos\CheckboxSample\CheckboxSample\obj\Debug\CheckboxSample.pdb

@@ -1,0 +1,10 @@
+C:\Users\ediso\source\repos\ListSample\ListSample\bin\Debug\ListSample.exe.config
+C:\Users\ediso\source\repos\ListSample\ListSample\bin\Debug\ListSample.exe
+C:\Users\ediso\source\repos\ListSample\ListSample\bin\Debug\ListSample.pdb
+C:\Users\ediso\source\repos\ListSample\ListSample\obj\Debug\ListSample.csproj.AssemblyReference.cache
+C:\Users\ediso\source\repos\ListSample\ListSample\obj\Debug\ListSample.Form1.resources
+C:\Users\ediso\source\repos\ListSample\ListSample\obj\Debug\ListSample.Properties.Resources.resources
+C:\Users\ediso\source\repos\ListSample\ListSample\obj\Debug\ListSample.csproj.GenerateResource.cache
+C:\Users\ediso\source\repos\ListSample\ListSample\obj\Debug\ListSample.csproj.CoreCompileInputs.cache
+C:\Users\ediso\source\repos\ListSample\ListSample\obj\Debug\ListSample.exe
+C:\Users\ediso\source\repos\ListSample\ListSample\obj\Debug\ListSample.pdb

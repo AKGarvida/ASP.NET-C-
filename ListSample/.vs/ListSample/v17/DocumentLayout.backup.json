@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ediso\\source\\repos\\ListSample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4C338A-285F-4C9E-885F-72E4583A9E30}|ListSample\\ListSample.csproj|c:\\users\\ediso\\source\\repos\\listsample\\listsample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4C338A-285F-4C9E-885F-72E4583A9E30}|ListSample\\ListSample.csproj|solutionrelative:listsample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4C338A-285F-4C9E-885F-72E4583A9E30}|ListSample\\ListSample.csproj|c:\\users\\ediso\\source\\repos\\listsample\\listsample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C4C338A-285F-4C9E-885F-72E4583A9E30}|ListSample\\ListSample.csproj|solutionrelative:listsample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4C338A-285F-4C9E-885F-72E4583A9E30}|ListSample\\ListSample.csproj|c:\\users\\ediso\\source\\repos\\listsample\\listsample\\days.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4C338A-285F-4C9E-885F-72E4583A9E30}|ListSample\\ListSample.csproj|solutionrelative:listsample\\days.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4C338A-285F-4C9E-885F-72E4583A9E30}|ListSample\\ListSample.csproj|c:\\users\\ediso\\source\\repos\\listsample\\listsample\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4C338A-285F-4C9E-885F-72E4583A9E30}|ListSample\\ListSample.csproj|solutionrelative:listsample\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "days.cs",
+              "DocumentMoniker": "C:\\Users\\ediso\\source\\repos\\ListSample\\ListSample\\days.cs",
+              "RelativeDocumentMoniker": "ListSample\\days.cs",
+              "ToolTip": "C:\\Users\\ediso\\source\\repos\\ListSample\\ListSample\\days.cs",
+              "RelativeToolTip": "ListSample\\days.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T03:34:35.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\ediso\\source\\repos\\ListSample\\ListSample\\Employee.cs",
+              "RelativeDocumentMoniker": "ListSample\\Employee.cs",
+              "ToolTip": "C:\\Users\\ediso\\source\\repos\\ListSample\\ListSample\\Employee.cs",
+              "RelativeToolTip": "ListSample\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T03:22:55.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ediso\\source\\repos\\ListSample\\ListSample\\Form1.cs",
+              "RelativeDocumentMoniker": "ListSample\\Form1.cs",
+              "ToolTip": "C:\\Users\\ediso\\source\\repos\\ListSample\\ListSample\\Form1.cs*",
+              "RelativeToolTip": "ListSample\\Form1.cs*",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAWwHAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T03:15:40.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ediso\\source\\repos\\ListSample\\ListSample\\Form1.cs",
+              "RelativeDocumentMoniker": "ListSample\\Form1.cs",
+              "ToolTip": "C:\\Users\\ediso\\source\\repos\\ListSample\\ListSample\\Form1.cs [Design]*",
+              "RelativeToolTip": "ListSample\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T03:15:23.695Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

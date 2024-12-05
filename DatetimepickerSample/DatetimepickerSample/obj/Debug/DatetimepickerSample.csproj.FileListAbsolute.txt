@@ -1,0 +1,10 @@
+C:\Users\ediso\source\repos\DatetimepickerSample\DatetimepickerSample\bin\Debug\DatetimepickerSample.exe.config
+C:\Users\ediso\source\repos\DatetimepickerSample\DatetimepickerSample\bin\Debug\DatetimepickerSample.exe
+C:\Users\ediso\source\repos\DatetimepickerSample\DatetimepickerSample\bin\Debug\DatetimepickerSample.pdb
+C:\Users\ediso\source\repos\DatetimepickerSample\DatetimepickerSample\obj\Debug\DatetimepickerSample.csproj.AssemblyReference.cache
+C:\Users\ediso\source\repos\DatetimepickerSample\DatetimepickerSample\obj\Debug\DatetimepickerSample.Form1.resources
+C:\Users\ediso\source\repos\DatetimepickerSample\DatetimepickerSample\obj\Debug\DatetimepickerSample.Properties.Resources.resources
+C:\Users\ediso\source\repos\DatetimepickerSample\DatetimepickerSample\obj\Debug\DatetimepickerSample.csproj.GenerateResource.cache
+C:\Users\ediso\source\repos\DatetimepickerSample\DatetimepickerSample\obj\Debug\DatetimepickerSample.csproj.CoreCompileInputs.cache
+C:\Users\ediso\source\repos\DatetimepickerSample\DatetimepickerSample\obj\Debug\DatetimepickerSample.exe
+C:\Users\ediso\source\repos\DatetimepickerSample\DatetimepickerSample\obj\Debug\DatetimepickerSample.pdb

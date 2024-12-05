@@ -1,0 +1,10 @@
+C:\Users\ediso\source\repos\FileOperations\FileOperations\bin\Debug\FileOperations.exe.config
+C:\Users\ediso\source\repos\FileOperations\FileOperations\bin\Debug\FileOperations.exe
+C:\Users\ediso\source\repos\FileOperations\FileOperations\bin\Debug\FileOperations.pdb
+C:\Users\ediso\source\repos\FileOperations\FileOperations\obj\Debug\FileOperations.csproj.AssemblyReference.cache
+C:\Users\ediso\source\repos\FileOperations\FileOperations\obj\Debug\FileOperations.Form1.resources
+C:\Users\ediso\source\repos\FileOperations\FileOperations\obj\Debug\FileOperations.Properties.Resources.resources
+C:\Users\ediso\source\repos\FileOperations\FileOperations\obj\Debug\FileOperations.csproj.GenerateResource.cache
+C:\Users\ediso\source\repos\FileOperations\FileOperations\obj\Debug\FileOperations.csproj.CoreCompileInputs.cache
+C:\Users\ediso\source\repos\FileOperations\FileOperations\obj\Debug\FileOperations.exe
+C:\Users\ediso\source\repos\FileOperations\FileOperations\obj\Debug\FileOperations.pdb

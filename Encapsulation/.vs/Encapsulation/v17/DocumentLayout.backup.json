@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ediso\\source\\repos\\Encapsulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45AC7997-1048-456D-A111-D530CEF8F89E}|Encapsulation\\Encapsulation.csproj|c:\\users\\ediso\\source\\repos\\encapsulation\\encapsulation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45AC7997-1048-456D-A111-D530CEF8F89E}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45AC7997-1048-456D-A111-D530CEF8F89E}|Encapsulation\\Encapsulation.csproj|c:\\users\\ediso\\source\\repos\\encapsulation\\encapsulation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45AC7997-1048-456D-A111-D530CEF8F89E}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45AC7997-1048-456D-A111-D530CEF8F89E}|Encapsulation\\Encapsulation.csproj|c:\\users\\ediso\\source\\repos\\encapsulation\\encapsulation\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45AC7997-1048-456D-A111-D530CEF8F89E}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45AC7997-1048-456D-A111-D530CEF8F89E}|Encapsulation\\Encapsulation.csproj|c:\\users\\ediso\\source\\repos\\encapsulation\\encapsulation\\frmemployeedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45AC7997-1048-456D-A111-D530CEF8F89E}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\frmemployeedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45AC7997-1048-456D-A111-D530CEF8F89E}|Encapsulation\\Encapsulation.csproj|c:\\users\\ediso\\source\\repos\\encapsulation\\encapsulation\\frmemployeedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45AC7997-1048-456D-A111-D530CEF8F89E}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\frmemployeedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmEmployeeDetails.cs",
+              "DocumentMoniker": "C:\\Users\\ediso\\source\\repos\\Encapsulation\\Encapsulation\\FrmEmployeeDetails.cs",
+              "RelativeDocumentMoniker": "Encapsulation\\FrmEmployeeDetails.cs",
+              "ToolTip": "C:\\Users\\ediso\\source\\repos\\Encapsulation\\Encapsulation\\FrmEmployeeDetails.cs*",
+              "RelativeToolTip": "Encapsulation\\FrmEmployeeDetails.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAtwBUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T01:24:52.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmEmployeeDetails.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ediso\\source\\repos\\Encapsulation\\Encapsulation\\FrmEmployeeDetails.cs",
+              "RelativeDocumentMoniker": "Encapsulation\\FrmEmployeeDetails.cs",
+              "ToolTip": "C:\\Users\\ediso\\source\\repos\\Encapsulation\\Encapsulation\\FrmEmployeeDetails.cs [Design]*",
+              "RelativeToolTip": "Encapsulation\\FrmEmployeeDetails.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T01:20:49.93Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\ediso\\source\\repos\\Encapsulation\\Encapsulation\\Employee.cs",
+              "RelativeDocumentMoniker": "Encapsulation\\Employee.cs",
+              "ToolTip": "C:\\Users\\ediso\\source\\repos\\Encapsulation\\Encapsulation\\Employee.cs*",
+              "RelativeToolTip": "Encapsulation\\Employee.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T01:11:42.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ediso\\source\\repos\\Encapsulation\\Encapsulation\\Form1.cs",
+              "RelativeDocumentMoniker": "Encapsulation\\Form1.cs",
+              "ToolTip": "C:\\Users\\ediso\\source\\repos\\Encapsulation\\Encapsulation\\Form1.cs*",
+              "RelativeToolTip": "Encapsulation\\Form1.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAhwB4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T01:18:08.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ediso\\source\\repos\\Encapsulation\\Encapsulation\\Form1.cs",
+              "RelativeDocumentMoniker": "Encapsulation\\Form1.cs",
+              "ToolTip": "C:\\Users\\ediso\\source\\repos\\Encapsulation\\Encapsulation\\Form1.cs [Design]*",
+              "RelativeToolTip": "Encapsulation\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T01:11:08.265Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
