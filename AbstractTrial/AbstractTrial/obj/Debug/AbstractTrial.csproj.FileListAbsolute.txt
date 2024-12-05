@@ -1,0 +1,10 @@
+C:\Users\ediso\source\repos\AbstractTrial\AbstractTrial\obj\Debug\AbstractTrial.csproj.AssemblyReference.cache
+C:\Users\ediso\source\repos\AbstractTrial\AbstractTrial\obj\Debug\AbstractTrial.Form1.resources
+C:\Users\ediso\source\repos\AbstractTrial\AbstractTrial\obj\Debug\AbstractTrial.Properties.Resources.resources
+C:\Users\ediso\source\repos\AbstractTrial\AbstractTrial\obj\Debug\AbstractTrial.csproj.GenerateResource.cache
+C:\Users\ediso\source\repos\AbstractTrial\AbstractTrial\obj\Debug\AbstractTrial.csproj.CoreCompileInputs.cache
+C:\Users\ediso\source\repos\AbstractTrial\AbstractTrial\bin\Debug\AbstractTrial.exe.config
+C:\Users\ediso\source\repos\AbstractTrial\AbstractTrial\bin\Debug\AbstractTrial.exe
+C:\Users\ediso\source\repos\AbstractTrial\AbstractTrial\bin\Debug\AbstractTrial.pdb
+C:\Users\ediso\source\repos\AbstractTrial\AbstractTrial\obj\Debug\AbstractTrial.exe
+C:\Users\ediso\source\repos\AbstractTrial\AbstractTrial\obj\Debug\AbstractTrial.pdb
